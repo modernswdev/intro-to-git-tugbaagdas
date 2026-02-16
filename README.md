@@ -105,3 +105,26 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+---
+
+## 📝 My Assignment Submission - Tugba Agdas
+
+I have completed the GitHub Basics assignment.
+
+### ✅ What I Learned
+- What Git and GitHub are
+- What a repository is
+- How to clone a repository
+- What committing and pushing mean
+- How branches and pull requests work
+- What forks are used for
+- How to use Markdown formatting
+
+### ❓ What I Am Still Confused About
+- When exactly to use branches in real projects
+- How pull requests work in large teams
+- The difference between forking and cloning in advanced cases
+
+
+
