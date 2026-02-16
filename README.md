@@ -126,5 +126,6 @@ I have completed the GitHub Basics assignment.
 - How pull requests work in large teams
 - The difference between forking and cloning in advanced cases
 
+Lesson completed and reflection file added.
 
 
